@@ -125,7 +125,7 @@ When the database is restored locally, you’ll need more space than the dump fi
 
 ## Database design
 
-<img src="neo4j_schema_vis.png" alt="Description of the image" width="1000"/>
+<img src="knowledge_graph_nodes.png" alt="Description of the image" width="1000"/>
 
 This is based on the Scopus data but other data sources that can be reliably linked to the property keys of any of these node can theoretically be brought into the same graph database. 
 
