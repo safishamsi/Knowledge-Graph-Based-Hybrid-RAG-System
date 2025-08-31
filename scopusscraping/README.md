@@ -5,8 +5,7 @@
 The aim of this repository is to retrieve paper information from the [Scopus database](https://www.elsevier.com/en-gb/products/scopus), in an automated and efficient way, using their API. The query response can form a dataset to feed into the graph database made with [neo4j](https://gitlab.bham.ac.uk/missierp-ai4idai/neo4j).
 
 ## Accessing pre-run queries
-
-The [query_log.csv](data/query_log.csv) tracks what queries have already been run for the AI4IDAI project. These queries use the full [list of University of Birmingham affiliations](data/uob_affils.csv). Also see this [scopus page](https://www.scopus.com/pages/organization/60019702#) for a summary of University of Birmingham Scopus documents.  
+ Thee queries use the full [list of University of Birmingham affiliations](data/uob_affils.csv). Also see this [scopus page](https://www.scopus.com/pages/organization/60019702#) for a summary of University of Birmingham Scopus documents.  
 
 > The query responses are stored as json files on the Research Data Store (/rdsprojects/m/missierp-ai4idai/scopus_data). **If you are granted access to these and use them for your UoB research, it is assumed that you have read and agreed to the [API Service Agreement](https://dev.elsevier.com/policy/API-service-agreement.pdf), and also read Elsevier's policy on [Scopus API for academic research](https://dev.elsevier.com/academic_research_scopus.html).**
 
