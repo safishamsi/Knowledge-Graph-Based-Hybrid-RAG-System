@@ -33,7 +33,5 @@ The [scopus_api.ipynb](code/scopus_api.ipynb) file was written and executed as [
 
 For wider context, reference Scopus [general resources](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl), [search tips](https://dev.elsevier.com/sc_search_tips.html), [search views](https://dev.elsevier.com/sc_search_views.html) and [api_key settings](https://dev.elsevier.com/api_key_settings.html).
 
-## Updates and contributions
 
-If you want to suggest and/or contribute changes to the code or documentation, that is welcome. Please refer to the [README.md for the whole project](https://gitlab.bham.ac.uk/missierp-ai4idai), specifically the section on [How to contribute in GitLab](https://gitlab.bham.ac.uk/missierp-ai4idai#how-to-contribute-in-gitlab). To see currently tracked bugs or improvements or questions related to this work, go to the [GitLab Issues](https://gitlab.bham.ac.uk/missierp-ai4idai/scopus/-/issues).
 
