@@ -29,7 +29,7 @@ Installation example on a shell terminal:
 
 ### Interactive Coding Notebook
 
-The [scopusscrap.ipynb](code/scopusscrap.ipynb) file was written and executed as [notebook file in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). If you want to run this coding notebook and create more query outputs from Scopus, you need to set up your environment with the necessary dependencies and authentications, as explained above.
+The [scopusscrap.ipynb](scopusscraping/scopusscrap.ipynb) file was written and executed as [notebook file in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). If you want to run this coding notebook and create more query outputs from Scopus, you need to set up your environment with the necessary dependencies and authentications, as explained above.
 
 For wider context, reference Scopus [general resources](https://dev.elsevier.com/documentation/SCOPUSSearchAPI.wadl), [search tips](https://dev.elsevier.com/sc_search_tips.html), [search views](https://dev.elsevier.com/sc_search_views.html) and [api_key settings](https://dev.elsevier.com/api_key_settings.html).
 
