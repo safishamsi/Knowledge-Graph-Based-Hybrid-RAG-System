@@ -38,7 +38,7 @@ It is assumed that you downloaded a Scopus json file from the Research Data Stor
 
 > The query responses are stored as json files on the Research Data Store (/rdsprojects/m/missierp-ai4idai/scopus_data). **If you are granted access to these and use them for your UoB research, it is assumed that you have read and agreed to the [API Service Agreement](https://dev.elsevier.com/policy/API-service-agreement.pdf), and also read Elsevier's policy on [Scopus API for academic research](https://dev.elsevier.com/academic_research_scopus.html).**
 
-Alternatively to using these files, you can generate your own, see [scopus_api](https://gitlab.bham.ac.uk/missierp-ai4idai/scopus) or use another method. 
+Alternatively to using these files, you can generate your own, see [scopusscrap] or use another method. 
 
 ## Running the create_database module
 
