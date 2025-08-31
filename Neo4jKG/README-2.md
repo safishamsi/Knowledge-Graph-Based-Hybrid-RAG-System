@@ -240,7 +240,6 @@ LIMIT 100;
 
 If you want to suggest and/or contribute changes to the code or documentation, that is welcome. Please refer to the [README.md for the whole project](https://gitlab.bham.ac.uk/missierp-ai4idai), specifically the section on [How to contribute in GitLab](https://gitlab.bham.ac.uk/missierp-ai4idai#how-to-contribute-in-gitlab). 
 
-This is work in progress; there are many more data and software best practices that can be implemented. To see currently tracked bugs or improvements, go to the [GitLab Issues](https://gitlab.bham.ac.uk/missierp-ai4idai/neo4j/-/issues). 
 
 ### Code Developers - please read!
 
