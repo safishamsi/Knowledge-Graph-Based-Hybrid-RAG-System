@@ -1,4 +1,4 @@
-Benchmark Queries from LaTeX Document
+Benchmark Queries 
 Query 1: Medical AI Development
 Query: "I want to develop AI for medical diagnosis"
 Query 2: Deep Learning Collaboration
