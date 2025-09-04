@@ -2,26 +2,26 @@
 
 Academic search system combining knowledge graphs with retrieval-augmented generation to eliminate citation bias and hallucinations in research discovery.
 
-## 🚀 Key Features
+##  Key Features
 - **50% better search relevance** (NDCG@10: 0.814) than traditional systems
 - **57.5% reduction** in temporal citation bias
 - **67% fewer hallucinations** through document grounding
 - Sub-500ms query response times
 - Automatic collaboration discovery via community detection
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Knowledge Graph**: Neo4j (61,945 papers, 189,972 authors)
 - **Embeddings**: SBERT + FAISS indexing
 - **RAG Pipeline**: LangChain/LangGraph + Claude-3.5-Sonnet
 - **Data Source**: Scopus API integration
 - **Language**: Python
 
-## 📊 Results
+##  Results
 - 82% researcher preference over Google Scholar
 - 64% reduction in literature review time
 - 96% cost reduction vs GPT-4 ($1.02 vs $24/1000 queries)
 
-## 📁 Project Structure
+##  Project Structure
 ├── Neo4jKG/           # Knowledge graph construction notebooks
 ├── RAG/               # Retrieval-augmented generation implementation
 ├── embeddings/        # SBERT embedding pipeline
@@ -55,5 +55,6 @@ License
 MIT License - see LICENSE file
 Contact
 For questions or collaboration: safishamsi98@gmail.com
+
 
 
